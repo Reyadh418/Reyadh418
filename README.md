@@ -70,15 +70,6 @@ A browser-based chess game with legal moves, piece logic, and UI controls, deplo
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Reyadh418&show_icons=true&theme=default&hide_border=true" alt="Reyadh's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyadh418&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Building robust full-stack applications with strong security fundamentals  
