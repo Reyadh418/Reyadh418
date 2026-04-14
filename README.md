@@ -1,4 +1,4 @@
-# Hi there, I'm Reyadh 👋
+# Hi there, I'm MD Reyad Hasan 👋
 
 <p align="left">
   <a href="https://github.com/Reyadh418">
