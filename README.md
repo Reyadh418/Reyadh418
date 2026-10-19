@@ -87,6 +87,7 @@ A browser chess experience built with vanilla HTML, CSS, and JavaScript. It supp
 ### Other Work
 
 - **[Blog Hub](https://github.com/Reyadh418/Blog-Hub-Project):** A full-stack blog platform with authentication, moderation, comments, reactions, notifications, and PostgreSQL persistence.
+- **<a href="https://github.com/Reyadh418/Youtube-video-downloader">Tubermate</a>:** A beginner-friendly Python CLI utility for downloading single YouTube videos with interactive quality and audio selection, retry handling, and estimated download-size feedback, built with `yt-dlp` and `FFmpeg`.
 - **[Osintgram contribution](https://github.com/Datalux/Osintgram/pull/2667):** Proposed Instagram profile and metadata harvesting functionality for an established open-source OSINT project.
 - **[WebChat contribution](https://github.com/molvqingtai/WebChat/pull/147):** Improved a React hook to reduce unnecessary DOM work and address exhaustive-dependencies correctness.
 
