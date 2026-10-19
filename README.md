@@ -1,7 +1,7 @@
 # Md Reyad Hasan
 
 <p align="center">
-  <strong>Undergraduate Student · Software Engineering Learner · Researcher</strong><br>
+  <strong>Undergraduate Applicant · Software Engineering Learner · Researcher</strong><br>
   Building practical, secure, and human-centered software at the intersection of web engineering, privacy, data, and intelligent infrastructure.
 </p>
 
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am an undergraduate student from Bangladesh developing a portfolio focused on thoughtful engineering, continuous learning, and meaningful problem-solving. I enjoy turning ideas into complete, usable systems—from research-backed IoT concepts and privacy-preserving communication tools to full-stack web applications, interactive browser experiences, and command-line utilities.
+I am an undergraduate applicant from Bangladesh developing a portfolio focused on thoughtful engineering, continuous learning, and meaningful problem-solving. I enjoy turning ideas into complete, usable systems—from research-backed IoT concepts and privacy-preserving communication tools to full-stack web applications, interactive browser experiences, and command-line utilities.
 
 My projects emphasize:
 
@@ -84,11 +84,6 @@ A browser chess experience built with vanilla HTML, CSS, and JavaScript. It supp
 - Move review, evaluation visualization, keyboard controls, and accessibility-focused UI states.
 - Deployed as a playable web application with GitHub Pages.
 
-### [Cricket Tournament Statistics](https://github.com/Reyadh418/cricket-tournament-stats)
-**C/C++ Fundamentals · Data Structures · Algorithms · Numerical Reasoning**
-
-A command-line tournament statistics system for recording player performances, calculating batting averages and strike rates, ranking players, and persisting records. The project addresses domain-specific edge cases such as undefined batting averages and floating-point division, while incorporating recursive analysis requirements.
-
 ### Other Work
 
 - **[Blog Hub](https://github.com/Reyadh418/Blog-Hub-Project):** A full-stack blog platform with authentication, moderation, comments, reactions, notifications, and PostgreSQL persistence.
@@ -99,7 +94,7 @@ A command-line tournament statistics system for recording player performances, c
 
 ### Languages
 
-`JavaScript` · `Python` · `C` · `C++` · `HTML` · `CSS` · `SQL`
+`JavaScript` · `Python` · `C`  · `HTML` · `CSS` · `SQL`
 
 ### Frameworks, Platforms, and Technologies
 
